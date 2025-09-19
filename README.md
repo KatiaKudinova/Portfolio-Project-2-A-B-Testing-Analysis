@@ -1,6 +1,8 @@
 # Portfolio-Project-2-A-B-Testing-Analysis
 This project demonstrates analysis of A/B test results using Python and Tableau to calculate statistical significance and visualize key conversion metrics.
+
 Project Goals:
+
 Calculate statistical significance for multiple metrics programmatically in Python.
 Explore metric results across different dimensions (tests, countries, devices).
 Visualize findings in an interactive Tableau dashboard highlighting significant changes.
