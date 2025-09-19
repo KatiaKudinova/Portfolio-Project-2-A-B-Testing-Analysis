@@ -23,3 +23,5 @@ Created a Tableau dashboard to present metrics, highlight statistically signific
 Documented the project in Google Colab, including code explanations, methodology, and conclusions.
 
 Tech Stack: Python, Pandas, NumPy, SciPy, Tableau Public
+
+https://public.tableau.com/views/ABtest_17568047571490/ABtest?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
